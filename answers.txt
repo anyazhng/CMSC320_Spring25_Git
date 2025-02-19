@@ -1,3 +1,9 @@
+
 Q1: Why might we consider using Git?
 
 Answer: Git might be useful for pushing versions of code, and useful for grading purposes
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to the field of medicine and toxicology. 
+For example, data science can be applied to lines of data for chemical properties in order to predict skin permeability.
